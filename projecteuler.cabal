@@ -23,6 +23,7 @@ library
                      , Projecteuler.Problem06
                      , Projecteuler.Problem07
                      , Projecteuler.Problem08
+                     , Projecteuler.Problem09
   build-depends:       base >= 4.7 && < 5
                      , file-embed
   default-language:    Haskell2010
