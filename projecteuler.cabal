@@ -17,6 +17,7 @@ library
   ghc-options:         -Wall
   exposed-modules:     Projecteuler.Problem01
                      , Projecteuler.Problem02
+                     , Projecteuler.Problem03
   build-depends:       base >= 4.7 && < 5
   default-language:    Haskell2010
 
